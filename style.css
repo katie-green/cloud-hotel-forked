@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;800;900&display=swap');
+
+body {
+  font-family: Nunito;
+  background: radial-gradient(#6dc2df 5%, #e4f5fd 60%, #82c0d4);
+  height: 100vh;
+}

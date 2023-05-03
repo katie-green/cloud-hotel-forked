@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Room 1",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.72J99pyOYLpPmEDrVBfxFAHaFj&pid=Api&P=0",
+    "desc": "Beautiful room on the highest level. Extra room for the whole family!",
+    "price": 150
+  },
+  {
+    "id": 2,
+    "name": "Room 2",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.jJ7eVIUbIAc-LnT5V_i0JwHaFj&pid=Api&P=0",
+    "desc": "Sunset room perfect for a romantic getaway. Enjoy the exquisite views of sunrises and sunsets.",
+    "price": 100
+  },
+  {
+    "id": 3,
+    "name": "Room 3",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.LFHIELIe9Nj2H5AMtK8ZMQHaE8&pid=Api&P=0",
+    "desc": "Our smallest and most simple room, but not lacking in quality! Enjoy your own little paradise to relax and decompress.",
+    "price": 75
+  }
+]
